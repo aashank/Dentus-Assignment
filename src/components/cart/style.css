@@ -1,0 +1,18 @@
+.topSearchAdjust{
+    padding-top: 100px;
+  }
+  /* Header */
+  .appTitle{
+  margin-left: 10px;
+  }
+  /* Icon */
+  .sizeIcon{
+    font-size: 28px!important;
+  }
+  .cartValue{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 2px;
+  }
+  
+  

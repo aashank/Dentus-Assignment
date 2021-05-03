@@ -1,0 +1,36 @@
+
+/* Cards */
+.topCardAdjust{
+    padding-top: 40px;      
+}
+img{
+  width: 200px;
+  height:200px;
+}
+.card-group{
+  min-height: 100px;
+}
+.cardDescriptionStyle{
+  max-width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.card-footer{
+  background-color: #ffc107!important;
+  color: white;
+}
+.add-to-cart-cls{
+  cursor: pointer;
+  color: black;
+}
+.remove-to-cart-cls{
+ cursor: pointer;
+ color: brown;
+}
+.card:hover{
+  transform: translateY(-5px);
+	transition: transform .5s;
+	transition-timing-function: ease;
+	border: 1px solid #ffac41;
+}

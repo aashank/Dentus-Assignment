@@ -1,0 +1,20 @@
+  /* Cards */
+  .topCardAdjust{
+    padding-top: 60px;      
+}
+.card-footer{
+  background-color: #ffc107!important;
+  color: white;
+}
+.add-to-cart-cls{
+  cursor: pointer;
+}
+#loadMoreBtn{
+  background-color: #ffc107!important;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+
+
+

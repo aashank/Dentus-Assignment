@@ -1,0 +1,25 @@
+/* Header */
+.appTitle{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 26px;
+    color: black!important;
+    }
+    ul{
+      list-style: none;
+    }
+    .guestTitle{
+      padding-top: 15px;
+    }
+    .headerSection{
+      padding-right: 0;
+      padding-left: 0;
+    }
+    /* Icon */
+    .sizeIcon{
+      font-size: 30px!important;
+    }
+    .fa-book{
+    padding-top: 2px;
+    }
+    

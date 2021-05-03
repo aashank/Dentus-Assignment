@@ -1,0 +1,43 @@
+.topSearchAdjust{
+    padding-top: 100px;
+}
+/* Input and Search */
+.inputDesign{
+    box-sizing: border-box;
+    
+ }
+
+  div.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 2px solid black;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  div.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #ffc107;
+   
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    border: 2px solid black;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  div.example button:hover {
+    background: #ffc107;
+  }
+  
+  div.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  
